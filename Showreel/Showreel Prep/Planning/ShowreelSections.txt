@@ -1,8 +1,36 @@
 Followed timeline:
-1 - Highschool game
-2 - Starting college
-3 - Dipping into trying aspects other than art or code 
-4 - College-given confidence for outside art
-5 - Attempting the Global Game Jam
-6 - Nearing the end of college
+1 - Starting college
+2 - College-given confidence for outside art
+3 - Attempting the Global Game Jam
+4 - Nearing the end of college
+5 - Preparations for leaving college
+
+Flow
+1:
+Sprite Planning stuff
+Level Editing stuff
+Combat in progress stuff
+Graded Unit 1 stuff
+Dependency in progress stuff
+
+2: 
+Commission attempts
+Amethyst Goblin Collection
+
+3:
+Roots stuff
+
+4:
+Tower Climb Game stuff
+Grenade battle stuff
+Slyggdrasil progress
+
+5:
+Twitter
+LinkedIn
+Itch.io
+
+
+
+
 
